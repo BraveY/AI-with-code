@@ -1,0 +1,4 @@
+/MNIST-detection/*.pth
+/MNIST-detection/data/
+/.idea/
+/.ipynb_checkpoints/

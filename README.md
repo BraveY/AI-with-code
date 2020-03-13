@@ -11,4 +11,5 @@ time-series:
 
 MNIST-detection:
 
-使用Pytorch框架的CNN进行手写数字识别
+[使用Pytorch框架的CNN进行手写数字识别](https://bravey.github.io/2020-03-13-%E4%BD%BF%E7%94%A8Pytorch%E6%A1%86%E6%9E%B6%E7%9A%84CNN%E7%BD%91%E7%BB%9C%E5%AE%9E%E7%8E%B0%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%EF%BC%88MNIST%EF%BC%89%E8%AF%86%E5%88%AB.html)
+

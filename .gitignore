@@ -2,3 +2,10 @@
 /MNIST-detection/data/
 /.idea/
 /.ipynb_checkpoints/
+/dog-vs-cat/submission
+/dog-vs-cat/modelDict/
+/dog-vs-cat/.ipynb_checkpoints
+/dog-vs-cat/tensorboard/
+/dog-vs-cat/pycharm-project/.idea
+/dog-vs-cat/pycharm-project/src/__pycache__
+/dog-vs-cat/pycharm-project/src/tensorboard

@@ -13,16 +13,14 @@ def dataloader(dataset):
                                                shuffle=True, pin_memory=True, num_workers=0)
     return data_loader
 
-def train( epoch, train_loader, device, model, criterion, optimizer,tensorboard_path):
-    model.train()
-    train_loss = 0.0
-    top1 = AvgrageMeter()
-    train_loader = tqdm(train_loader)
-
+def train( epochs, train_loader, device, model, criterion, optimizer,tensorboard_path):
     model = model.to(device)
-    for e in range(epoch):
-        running_loss = 0.0
-        train_loader.set_description('[%s%04d/%04d %s%f]' % ('Epoch:', e + 1, epoch, 'lr:', 0.001))
+    for epoch in range(epochs):
+        model.train()
+        top1 = AvgrageMeter()
+        train_loader = tqdm(train_loader)
+        train_loss = 0.0
+        train_loader.set_description('[%s%04d/%04d %s%f]' % ('Epoch:', epoch + 1, epochs, 'lr:', 0.001))
         for i, data in enumerate(train_loader, 0):  # 0是下标起始位置默认为0
             inputs, labels = data[0].to(device), data[1].to(device)
             # 初始为0，清除上个batch的梯度信息

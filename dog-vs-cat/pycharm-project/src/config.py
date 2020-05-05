@@ -29,7 +29,7 @@ config = DictObj({
     'train_path': 'D:/AIdata/dog vs cat/train',
     'test_path': 'D:/AIdata/dog vs cat/test1',
     'csv_path': 'C:/Users/BraveY/Documents/BraveY/AI-with-code/dog-vs-cat/submission/submission_pycharm.csv',
-    'tensorboard_path':'C:/Users/BraveY/Documents/BraveY/AI-with-code/dog-vs-cat/tensortboard/pycharm',
+    'tensorboard_path':'C:/Users/BraveY/Documents/BraveY/AI-with-code/dog-vs-cat/tensorboard/pycharm',
     'model_save_path':'C:/Users/BraveY/Documents/BraveY/AI-with-code/dog-vs-cat/modelDict/dogs-vs-cats_pycharm.pth'
 })
 

@@ -17,3 +17,10 @@ dog-vs-cat:
 
 [Kaggle猫狗识别Pytorch详细搭建过程 ](https://bravey.github.io/2020-04-26-Kaggle%E7%8C%AB%E7%8B%97%E8%AF%86%E5%88%ABPytorch%E8%AF%A6%E7%BB%86%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B.html)
 
+Automatic-poem-writing：
+
+[范闲写诗器之用LSTM+Pytorch实现自动写诗](https://bravey.github.io/2020-05-05-%E8%8C%83%E9%97%B2%E5%86%99%E8%AF%97%E5%99%A8%E4%B9%8B%E7%94%A8LSTM+Pytorch%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%8A%A8%E5%86%99%E8%AF%97.html)
+
+Sentiment-classification:
+
+[使用LSTM+Pytorch对电影评论进行情感分类]

@@ -23,4 +23,4 @@ Automatic-poem-writing：
 
 Sentiment-classification:
 
-[使用LSTM+Pytorch对电影评论进行情感分类]
+[使用LSTM+Pytorch对电影评论进行情感分类](https://bravey.github.io/2020-05-12-%E4%BD%BF%E7%94%A8LSTM+Pytorch%E5%AF%B9%E7%94%B5%E5%BD%B1%E8%AF%84%E8%AE%BA%E8%BF%9B%E8%A1%8C%E6%83%85%E6%84%9F%E5%88%86%E7%B1%BB.html)
